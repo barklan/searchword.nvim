@@ -1,5 +1,7 @@
 # searchword.nvim
 
+Search for "WORD" without typing `\<` and `\>`.
+
 Install with `lazy.nvim`:
 
 ```lua
